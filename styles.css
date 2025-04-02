@@ -1,0 +1,40 @@
+
+body
+{background-image: url(./images/image3.jpg);
+ background-size: cover;}
+#div1
+{
+   border: 3px solid forestgreen;
+   margin: 5px;
+   display: inline-block;
+   text-align: left;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-top: 25px;
+   padding-bottom: 75px;
+   margin-top: 250px;
+   margin-left: 250px;
+   margin-right: 250px;
+   background-color:floralwhite;
+}
+#div2
+{
+    border: 3px solid forestgreen;
+   margin: 5px;
+   display: inline-block;
+   text-align: left;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-top: 25px;
+   padding-bottom: 75px;
+   margin-top: 250px;
+   background-color:floralwhite;
+}
+#div0
+{
+  font-size:x-large;
+  font-style: initial;
+  color:orangered;
+  text-align: center;
+  font-weight: bolder;    
+}
